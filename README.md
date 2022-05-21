@@ -1,5 +1,7 @@
 # Configurações do Baby Web Server 2.7.2 x64
 
+## O objetivo principal era projetar um servidor web simples com suporte para ASP.
+
 1. Após descompactar o arquivo na pasta **./instalacao_BabyWebServer**, aparecerá essa interface:
 
 <img src="./img/01.png" alt="image-20220516213321146" style="zoom: 67%;" />
