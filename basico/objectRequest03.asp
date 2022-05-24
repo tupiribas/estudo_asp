@@ -6,9 +6,9 @@
     <input type="text" name="email"><br><br>
 
     <select name="cliente">
-        <option value="1">Maria</option>
-        <option value="2">Joao</option>
-        <option value="3">Pedro</option>
+        <option>Maria</option>
+        <option>Joao</option>
+        <option>Pedro</option>
     </select><br><br>
 
     <input type="radio" name="sexo" value="Masculino">Masculino<br>
